@@ -1,0 +1,35 @@
+#######################################
+# Syntax Coloring Map For nuMROBO
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+nuMROBO	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+activateBluetooth	KEYWORD2
+activateMotors	KEYWORD2
+
+activateIR	KEYWORD2
+activateUltrasonic	KEYWORD2
+
+leftMotorForward	KEYWORD2
+leftMotorReverse	KEYWORD2
+rightMotorForward	KEYWORD2
+rightMotorReverse	KEYWORD2
+
+stopAllMotors	KEYWORD2
+
+stopLeftMotor	KEYWORD2
+stopRightMotor	KEYWORD2
+blackLinePresent	KEYWORD2
+whiteLinePresent	KEYWORD2
+
+getDistance	KEYWORD2
+getIRStatus	KEYWORD2
+readBluetooth	KEYWORD2
