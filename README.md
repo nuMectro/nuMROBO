@@ -17,8 +17,6 @@ cd ~/Documents/Arduino/libraries/
 git clone https://github.com/nuMectro/nuMROBO nuMROBO
 ```
 
-## 
-
 ## License
 The software is release under a [MIT License]
 
